@@ -9,7 +9,7 @@
 	    {
       "id": "txstock",
   "name": "腾讯自选股",
-  "keys": ["TxStockAppUrl", "TxStockAppHeader", "TxStockWxHeader","TxStockAppUrl2", "TxStockAppHeader2", "TxStockWxHeader2","TxStockAppUrl3", "TxStockAppHeader3", "TxStockWxHeader3"],
+  "keys": ["TxStockAppUrl", "TxStockAppHeader", "TxStockWxHeader", "TxStockAppUrl2", "TxStockAppHeader2", "TxStockWxHeader2", "TxStockAppUrl3", "TxStockAppHeader3", "TxStockWxHeader3"],
   "author": "@Mayun-OK",
   "settings": [{
     "id": "txstockSuffix",
