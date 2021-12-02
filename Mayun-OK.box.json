@@ -5,6 +5,7 @@
     "name": "Marsyun脚本订阅",
     "author": "@Mayun-OK",
     "icon": "https://github.com/Mayun-OK/Marsyun/blob/main/Marsyun.jpeg?raw=true",
+    "repo": "https://github.com/Mayun-OK",
     "apps": [
 	    {
       "id": "txstock",
