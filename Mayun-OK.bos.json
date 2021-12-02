@@ -1,3 +1,4 @@
+## 纯小白一个，不会写代码，为了方便自己，将各位大佬的脚本汇集到一起，便于自己查找，使用。如有冒犯，请原谅。
 {
     "id": "Marsyun.app.sub",
     "name": "Marsyun脚本订阅",
@@ -7,8 +8,8 @@
 	    {
       "id": "txstock",
   "name": "腾讯自选股",
-  "keys": ["TxStockAppUrl", "TxStockAppHeader", "TxStockWxHeader"],
-  "author": "@gaofei",
+  "keys": ["TxStockAppUrl", "TxStockAppHeader", "TxStockWxHeader","TxStockAppUrl2", "TxStockAppHeader2", "TxStockWxHeader2","TxStockAppUrl3", "TxStockAppHeader3", "TxStockWxHeader3"],
+  "author": "@Mayun-OK",
   "settings": [{
     "id": "txstockSuffix",
     "name": "当前账号",
@@ -58,7 +59,7 @@
     "type": "number",
     "desc": "推送以及通知控制在什么分钟段，可设置0-59,默认0到10"
   }],
-                        "repo": "https://raw.githubusercontent.com/gaofeird/test/main/txstock.js",
+                        "repo": "https://raw.githubusercontent.com/Mayun-OK/Marsyun/main/txstock.js",
                             "icons": ["https://github.com/Mayun-OK/Marsyun/blob/main/txstock.png?raw=true", "https://github.com/Mayun-OK/Marsyun/blob/main/txstock.png?raw=true"],
                                 "script": "https://raw.githubusercontent.com/Mayun-OK"
   }
